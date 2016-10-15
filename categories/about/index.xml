@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Hopfer</title>
+    <link>https://kahopfer.github.io/kylehopfer/categories/about/index.xml</link>
+    <description>Recent content on Kyle Hopfer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://kahopfer.github.io/kylehopfer/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://kahopfer.github.io/kylehopfer/about/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kahopfer.github.io/kylehopfer/about/</guid>
+      <description>&lt;p&gt;Kyle Hopfer is from St. Louis, MO. He is currently in his junior year studying information systems at the University of
+Missouri-St. Louis. He is also working part time as a software developer intern at Centene Corporation in St. Louis, MO.
+He graduated from Lutheran High School South in 2014. Kyle is a fan of the St. Louis Cardinals and the St. Louis Blues.
+He enjoys spending time with family and friends and going to Bible studies at his church.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
